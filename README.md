@@ -14,3 +14,6 @@ Este Repo tem por Objetivo o armazenamento de artefatos TF
 - **Recursos Extras Terraform**
 - **Terraform em Pipelines**
 - **Encerramento**
+
+# Link do Curso
+https://www.udemy.com/course/terraform-do-basico-ao-avancado/
